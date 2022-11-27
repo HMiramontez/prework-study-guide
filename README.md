@@ -1,2 +1,33 @@
-# prework-study-guide
-a study guide for course pre-work
+# Prework Study Guide Webpage
+
+## Description
+
+My motivation for this guide was to help myself and others have a better understanding of this subject. I built this project with a couple things in mind; how to persevere in daily life, and help others as well as myself. It outlines what each of the four subjects mean in terms of what they do. I learned the building blocks of writing and understanding code.
+## Installation
+N/A
+## Usage
+To use this study guide you can open the devtool to get a list of topics covered.
+## Credits
+N/A
+## License
+MIT License
+
+Copyright (c) 2022 HMiramontez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
